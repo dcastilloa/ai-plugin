@@ -1,0 +1,4 @@
+{
+  "name": "PostHog AI Plugin",
+  "install": "./scripts/validate-plugin.sh"
+}
